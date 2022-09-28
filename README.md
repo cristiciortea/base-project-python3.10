@@ -1,7 +1,2 @@
-# base-project-python3.10 2022
-Starting point for base new projects in python3.10 
-
-### Asure the following commands are ran before start writing new code :tent: :
-1. `poetry install`
-2. `pre-commit install` (should exist already in the .git)
-3. `mkdir docker src tests`
+API Development with FastAPI, SQLAlchemy, Alembic, PostgreSQL, Uvicorn and Docker. In this tutorial we take a first look at building an API with FastAPI building an API using FastAPI with Uvicorn (Get and Post Data),
+SQLAlchemy + Alembic to manage migrations, PostgreSQL + PGAdmin  all wrapped deployed in Docker/Docker-Compose.
